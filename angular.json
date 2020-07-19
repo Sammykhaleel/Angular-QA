@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "my-angular-quiz-app"
+  "defaultProject": "my-angular-quiz-app",
+  "cli": {
+    "analytics": "d1395d23-db9b-49ab-9b2a-74ee9d570a74"
+  }
 }
